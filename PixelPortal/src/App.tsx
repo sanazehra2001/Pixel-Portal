@@ -65,7 +65,6 @@ function App() {
             />
           </Flex>
         </Box>
-
         <GameGrid gameQuery={gameQuery} />
       </GridItem>
     </Grid>
